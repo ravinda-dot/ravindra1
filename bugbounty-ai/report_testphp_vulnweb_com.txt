@@ -1,0 +1,28 @@
+Bug Bounty AI Report for testphp_vulnweb_com
+==================================================
+
+Subdomains Found:
+
+Live Hosts:
+ - A
+ - I
+ -  
+ - S
+ - u
+ - m
+ - m
+ - a
+ - r
+ - y
+ -  
+ - R
+ - e
+ - p
+ - o
+ - r
+ - t
+ - :
+ - 
+
+
+Generated at: 2025-07-18 16:56:08.110935

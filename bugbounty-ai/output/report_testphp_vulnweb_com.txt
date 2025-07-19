@@ -1,0 +1,16 @@
+Bug Bounty AI Report for testphp_vulnweb_com
+==================================================
+
+Subdomains Found:
+www.testphp.vulnweb.com
+sieb-web1.testphp.vulnweb.com
+
+Live Hosts:
+
+
+Vulnerabilities Found:
+
+AI Summary:
+AI Summary Report:
+
+Generated at: 2025-07-18 17:10:28.870309
